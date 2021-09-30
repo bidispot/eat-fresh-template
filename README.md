@@ -2,10 +2,12 @@
 
 React template for responsive Fresh and Healthy Food Restaurant
 
-# Desktop
+[Live Demo](https://eat-fresh-template.netlify.app/)
+
+### Desktop
 
 ![alt Desktop Version](./screenshots/desktop.png)
 
-# Mobile
+### Mobile
 
 ![alt Mobile Version](./screenshots/mobile.png)
