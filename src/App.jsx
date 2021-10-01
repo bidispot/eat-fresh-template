@@ -5,7 +5,7 @@ import Services from './modules/services/Services'
 import Menu from './modules/menu/Menu'
 import MobileApp from './modules/mobile-app/MobileApp'
 import Contact from './modules/contact/Contact'
-import ScrollToTop from './modules/scroll-top/ScrollToTop'
+import ScrollToTop from './components/scroll-top/ScrollToTop'
 import Footer from './modules/footer/Footer'
 
 const App = () => {
